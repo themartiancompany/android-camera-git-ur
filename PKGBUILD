@@ -31,10 +31,8 @@ license=(
   AGPL3
 )
 depends=(
-  android-recorder
+  android-activity-utils
   libcrash-bash
-  record-tools
-  tsu
 )
 makedepends=(
   make
